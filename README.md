@@ -11,11 +11,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Page?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
 [![Messenger](https://img.shields.io/badge/Facebook-Id?style=for-the-badge&logo=facebook)](https://www.facebook.com/100044147289767)
 
-
-
-<img src="https://github.com/MR-JOKER-69/MR-JOKER-69/blob/main/Screenshot_20220508-125101.png" width="350" height="250" align="left">
-<center>
-
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'AM+MR+JOKER+69;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANKS+YOY+EVERYONE+FOR+SUPPORTING+ME)](https://git.io/typing-svg)
@@ -24,8 +19,15 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">𝗜'𝗮𝗺 𝗦𝗽𝗮𝗺𝗺𝗲𝗿 𝗔𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h3>
 
+
+<img src="https://github.com/MR-JOKER-69/MR-JOKER-69/blob/main/Screenshot_20220508-125101.png" width="350" height="250" align="left">
+<center>
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+<h3 align="center">𝗜'𝗮𝗺 𝗦𝗽𝗮𝗺𝗺𝗲𝗿 𝗔𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h3>
 
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">

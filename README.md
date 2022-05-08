@@ -25,10 +25,10 @@
 <h2> <img src="https://github.com/MR-JOKER-69/MR-JOKER-69/blob/main/Screenshot_20220508-125101.png" width="350" height="250" align="left">
 <center>
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<h3> <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 
-<h3 align="center">𝗜'𝗮𝗺 𝗦𝗽𝗮𝗺𝗺𝗲𝗿 𝗔𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h3>
+ align="center">𝗜'𝗮𝗺 𝗦𝗽𝗮𝗺𝗺𝗲𝗿 𝗔𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h3>
 
 
 <h3> <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">

@@ -4,7 +4,7 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-JOKER-69&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<h2> <p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-JOKER-69&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MR-JOKER-69" /> </p>
 </i></b></h3>
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Contract Me :</i></h2>

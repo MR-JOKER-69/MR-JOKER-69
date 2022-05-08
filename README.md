@@ -17,7 +17,7 @@
 
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Contract Me :</i></h2>
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook page)](https://www.facebook.com/MRJOKER69X)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
 
 
 

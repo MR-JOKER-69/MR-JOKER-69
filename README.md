@@ -12,14 +12,14 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook_Page-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
 [![Facebook](https://img.shields.io/badge/Facebook_Id-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/100044147289767)
-[![Whatapps](https://img.shields.io/badge/Whatapp-blue?style=for-the-badge&logo=whatapps)](https://wa.me/+8801779546304)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801779546304)
 
 
 
 <h2>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'AM+MR+JOKER+69;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANKS+YOY+EVERYONE+FOR+SUPPORTING+ME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'AM+MR+JOKER+69;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANKS+YOU+EVERYONE+FOR+SUPPORTING+ME)](https://git.io/typing-svg)
 
 </p>
 

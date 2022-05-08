@@ -11,8 +11,8 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook_Page-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
-[![Messenger](https://img.shields.io/badge/Facebook_Id-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
-[![Telegram](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=telegram)](https://github.com/MAHADI-143)
+[![Facebook](https://img.shields.io/badge/Facebook_Id-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/100044147289767)
+[![Whatapps](https://img.shields.io/badge/Whatapp-green?style=for-the-badge&logo=whatapps)](https://wa.me/+8801779546304)
 
 
 

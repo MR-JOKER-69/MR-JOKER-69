@@ -10,8 +10,8 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Facebook](https://img.shields.io/badge/Foacebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
+[![Facebook](https://img.shields.io/badge/Facebook_Page-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
+[![Messenger](https://img.shields.io/badge/Facebook_Id-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
 [![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/MAHADI-143)
 
 

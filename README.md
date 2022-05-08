@@ -28,7 +28,7 @@
 <h3> <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 
- align="center">𝗜'𝗮𝗺 𝗦𝗽𝗮𝗺𝗺𝗲𝗿 𝗔𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h3>
+ 𝗜'𝗮𝗺 𝗦𝗽𝗮𝗺𝗺𝗲𝗿 𝗔𝗻𝗱 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿</h3>
 
 
 <h3> <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">

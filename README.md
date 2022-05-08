@@ -4,6 +4,16 @@
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-JOKER-69&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+</i></b></h3>
+
+<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Contract Me :</i></h2>
+
+[![Instagram](https://img.shields.io/badge/IG-%40Mahadi.Hasan.Afridi-red?style=for-the-badge&logo=instagram)](https://www.facebook.com/MRJOKER69X)
+[![Facebook](https://img.shields.io/badge/Facebook-Page?style=for-the-badge&logo=facebook)](https://fb.com/4FR1D1.143)
+[![Messenger](https://img.shields.io/badge/Facebook-Id?style=for-the-badge&logo=messenger)](https://www.facebook.com/100044147289767)
+
+
 
 <img src="https://github.com/MR-JOKER-69/MR-JOKER-69/blob/main/Screenshot_20220508-125101.png" width="350" height="250" align="left">
 <center>

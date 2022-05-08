@@ -10,9 +10,9 @@
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me :</i></h2>
 
-[![Facebook](https://img.shields.io/badge/Facebook_Page-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
-[![Facebook](https://img.shields.io/badge/Facebook_Id-blue?style=for-the-badge&logo=messenger)](https://www.facebook.com/100044147289767)
-[![Whatapps](https://img.shields.io/badge/Whatapp-green?style=for-the-badge&logo=whatapps)](https://wa.me/+8801779546304)
+[![Facebook](https://img.shields.io/badge/Facebook_Page-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
+[![Facebook](https://img.shields.io/badge/Facebook_Id-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/100044147289767)
+[![Whatapps](https://img.shields.io/badge/Whatapp-blue?style=for-the-badge&logo=whatapps)](https://wa.me/+8801779546304)
 
 
 
@@ -73,3 +73,10 @@
 ❦︎ 💻 𝙂𝙄𝙏𝙃𝙐𝘽: (https://github.com/MR-JOKER-69)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+
+
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  &nbsp; THANKS FOR VIGIT MY PROFAIL &nbsp;
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>

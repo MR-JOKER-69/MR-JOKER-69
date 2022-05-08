@@ -5,6 +5,6 @@
 </h3>
 
 
-<img src="https://github.com/MR-JOKER-69/MR-JOKER-69/blob/main/Screenshot_20220508-125101.png" width="350" height="320" align="left">
+<img src="https://github.com/MR-JOKER-69/MR-JOKER-69/blob/main/Screenshot_20220508-125101.png" width="350" height="250" align="left">
 <center>
     

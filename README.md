@@ -11,8 +11,9 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Page?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
 [![Messenger](https://img.shields.io/badge/Facebook-Id?style=for-the-badge&logo=facebook)](https://www.facebook.com/100044147289767)
 
+<h2>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
-<h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'AM+MR+JOKER+69;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANKS+YOY+EVERYONE+FOR+SUPPORTING+ME)](https://git.io/typing-svg)
 
 </p>

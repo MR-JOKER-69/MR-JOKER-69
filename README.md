@@ -12,7 +12,7 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook_Page-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/MRJOKER69X)
 [![Facebook](https://img.shields.io/badge/Facebook_Id-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/100044147289767)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801779546304)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801750376469)
 
 
 
